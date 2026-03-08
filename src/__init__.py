@@ -1,0 +1,1 @@
+"""Ashbound game content package."""
